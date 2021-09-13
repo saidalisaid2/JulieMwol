@@ -46,6 +46,11 @@
             "required": true,
             "value": "false"
         },
+         "TALKING_PINKY": {
+            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
+            "required": true,
+            "value": "false"
+        },
         "NO_LOG": {
             "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
             "required": true,
